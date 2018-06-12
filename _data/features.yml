@@ -1,16 +1,28 @@
 ---
-vr:
-    -   id: template
-        title: VR sample
-        description: Xenko comes with a VR game sample that shows you how to implement VR gameplay, including environment interaction and teleportation.
-        type: video
-    -   id: optimized
-        title: Optimized perfomance
-        description: Get the best VR performance with clustered forward rendering, single-pass rendering, multi-threading, and next-gen graphics API support.
+gamestudio:
+    -   id: graphics_compositor
+        title: Graphics compositor
+        description: Customize the rendering pipeline of your game in a visual way using building blocks. Future versions will even allow you to edit the building blocks themselves.
         type: image
-    -   id: vr-editor
-        title: VR preview
-        description: Save valuable time by visualizing and testing VR directly from the scene editor.
+    -   id: prefab
+        title: Nested prefabs
+        description: Edit a prefab and every instance updates automatically, saving hours of work. You can even edit prefabs inside other prefabs.
+        type: video
+    -   id: ui_editor
+        title: UI editor
+        description: Build the UI of your game visually and intuitively. Create UI libraries and leverage the prefab system to automatically update all your UI elements' design.
+        type: video
+    -   id: scene_editor
+        title: Scene editor
+        description: Create your game scenes and levels simply by dragging and dropping your objects from the asset view to the desired places.
+        type: video
+    -   id: sprite_editor
+        title: Sprite editor
+        description: Create and edit sprites visually in the editor. Xenko automatically creates optimized atlases from your sprite sheets.
+        type: video
+    -   id: curve_editor
+        title: Curve editor
+        description: Intuitively animate the value of your properties by creating animation curves directly in the editor.
         type: video
 graphics:
     -   id: pbr
@@ -38,31 +50,6 @@ graphics:
         title: Post effects
         description: Add photorealistic effects to your game with post-effects. Xenko supports all the most common effects such as Depth of Field, Bloom, etc.
         type: video
-gamestudio:
-    -   id: graphics_compositor
-        title: Graphics compositor
-        description: Customize the rendering pipeline of your game in a visual way using building blocks. Future versions will even allow you to edit the building blocks themselves.
-        type: image
-    -   id: prefab
-        title: Nested prefabs
-        description: Edit a prefab and every instance updates automatically, saving hours of work. You can even edit prefabs inside other prefabs.
-        type: video
-    -   id: ui_editor
-        title: UI editor
-        description: Build the UI of your game visually and intuitively. Create UI libraries and leverage the prefab system to automatically update all your UI elements' design.
-        type: video
-    -   id: scene_editor
-        title: Scene editor
-        description: Create your game scenes and levels simply by dragging and dropping your objects from the asset view to the desired places.
-        type: video
-    -   id: sprite_editor
-        title: Sprite editor
-        description: Create and edit sprites visually in the editor. Xenko automatically creates optimized atlases from your sprite sheets.
-        type: video
-    -   id: curve_editor
-        title: Curve editor
-        description: Intuitively animate the value of your properties by creating animation curves directly in the editor.
-        type: video
 engine:
     -   id: scripting
         title: C# scripting
@@ -87,4 +74,17 @@ engine:
     -   id: animation
         title: Animation
         description: Play and blend animations created in 3D modeling tools and animate any property of your game. Storyboard editor coming soon.
+        type: video
+vr:
+    -   id: template
+        title: VR sample
+        description: Xenko comes with a VR game sample that shows you how to implement VR gameplay, including environment interaction and teleportation.
+        type: video
+    -   id: optimized
+        title: Optimized perfomance
+        description: Get the best VR performance with clustered forward rendering, single-pass rendering, multi-threading, and next-gen graphics API support.
+        type: image
+    -   id: vr-editor
+        title: VR preview
+        description: Save valuable time by visualizing and testing VR directly from the scene editor.
         type: video

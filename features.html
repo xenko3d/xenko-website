@@ -8,21 +8,21 @@ excerpt: 'Xenko supports an extensive list of features: Scene Editor, Physically
 <div class="bg-light bg-bottom-border">
 <div class="container">
 <div class="row">
-    <a class="anchor" id="vr"></a>
+    <a class="anchor" id="game-studio"></a>
 	<div class="col-lg-7 col-md-6 gantry-width-block rt-left">
-		<h1><span class="rt-accent-color1">VR</span> ready</h1>
-		<p>Xenko's clustered forward rendering, with its multisample anti-aliasing, makes it ideal for VR. Enabling VR is as simple as a single click.</p>
-		<p>Xenko uses a single API for every device, with native support for Oculus and HTV Vive (more devices coming very soon).</p>
-		<p>Xenko's <b>HRTF binaural audio</b> greatly improves VR immersion.</p>
+		<h1><span class="rt-accent-color1">Game</span> Studio</h1>
+		<p>Xenko comes with a robust toolchain that enables you to intuitively and efficiently create, manage and modify all assets of your game.</p>
+		<p>The suite of editors simplify and automate common development workflows. Its nested prefab and archetype systems scale along all editors and assets.</p>
+		<p>Xenko Game Studio has also been designed so that it can be extended easily. A plug-in system to help users extend the Game Studio is coming soon!</p>
 	</div>
 	<div class="col-lg-5 col-md-6 gantry-width-block rt-center feature-block">
-		<a href="/images/features/vr/overview.jpg" title="VR Game Template" class="feature-image-container image-popup">
-			<div class="rt-image"><div class="zoom-in"></div><img src="/images/features/vr/overview.jpg" alt="VR Game Template"></div>			
+		<a href="/images/features/gamestudio/overview.jpg" title="The GameStudio Editor" class="feature-image-container image-popup">
+			<div class="rt-image"><div class="zoom-in"></div><img src="/images/features/gamestudio/overview.jpg"/></div>			
 		</a>
 	</div>
 </div>
 <div class="row">
-{% assign features_current = 'vr' %}
+{% assign features_current = 'gamestudio' %}
 {% include features_block.html %}
 </div>
 </div>
@@ -51,30 +51,7 @@ excerpt: 'Xenko supports an extensive list of features: Scene Editor, Physically
 </div>
 </div>
 
-<div class="bg-light bg-bottom-border">
-<div class="container">
-<div class="row">
-    <a class="anchor" id="game-studio"></a>
-	<div class="col-lg-7 col-md-6 gantry-width-block rt-left">
-		<h1><span class="rt-accent-color1">Game</span> Studio</h1>
-		<p>Xenko comes with a robust toolchain that enables you to intuitively and efficiently create, manage and modify all assets of your game.</p>
-		<p>The suite of editors simplify and automate common development workflows. Its nested prefab and archetype systems scale along all editors and assets.</p>
-		<p>Xenko Game Studio has also been designed so that it can be extended easily. A plug-in system to help users extend the Game Studio is coming soon!</p>
-	</div>
-	<div class="col-lg-5 col-md-6 gantry-width-block rt-center feature-block">
-		<a href="/images/features/gamestudio/overview.jpg" title="The GameStudio Editor" class="feature-image-container image-popup">
-			<div class="rt-image"><div class="zoom-in"></div><img src="/images/features/gamestudio/overview.jpg"/></div>			
-		</a>
-	</div>
-</div>
-<div class="row">
-{% assign features_current = 'gamestudio' %}
-{% include features_block.html %}
-</div>
-</div>
-</div>
-
-<div class="bg-dark"/>
+<div class="bg-light bg-bottom-border"/>
 <div class="container">
 <div class="row">
     <a class="anchor" id="engine"></a>
@@ -92,6 +69,29 @@ excerpt: 'Xenko supports an extensive list of features: Scene Editor, Physically
 </div>
 <div class="row">
 {% assign features_current = 'engine' %}
+{% include features_block.html %}
+</div>
+</div>
+</div>
+
+<div class="bg-dark">
+<div class="container">
+<div class="row">
+    <a class="anchor" id="vr"></a>
+	<div class="col-lg-7 col-md-6 gantry-width-block rt-left">
+		<h1><span class="rt-accent-color1">VR</span> ready</h1>
+		<p>Xenko's clustered forward rendering, with its multisample anti-aliasing, makes it ideal for VR. Enabling VR is as simple as a single click.</p>
+		<p>Xenko uses a single API for every device, with native support for Oculus and HTV Vive (more devices coming very soon).</p>
+		<p>Xenko's <b>HRTF binaural audio</b> greatly improves VR immersion.</p>
+	</div>
+	<div class="col-lg-5 col-md-6 gantry-width-block rt-center feature-block">
+		<a href="/images/features/vr/overview.jpg" title="VR Game Template" class="feature-image-container image-popup">
+			<div class="rt-image"><div class="zoom-in"></div><img src="/images/features/vr/overview.jpg" alt="VR Game Template"></div>			
+		</a>
+	</div>
+</div>
+<div class="row">
+{% assign features_current = 'vr' %}
 {% include features_block.html %}
 </div>
 </div>
