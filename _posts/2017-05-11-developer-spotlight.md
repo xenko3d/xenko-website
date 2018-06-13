@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Game Spotlight - "Children of the Galaxy"'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/children-of-galaxy/thumb.jpg
 popular: true
+disqus_short_name: paradox3d
 ---
 
 ![CoG title screen](../../images/blog/children-of-galaxy/cogblogimg.png)

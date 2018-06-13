@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Script Editor Preview'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 popular: true
 image_thumb: /images/blog/script_editor/thumb.jpg
+disqus_short_name: paradox3d
 ---
 
 Switching back and forth between your game development editor and your IDE for small changes starting to wear on you? Well, you can look forward to losing many of those unnecessary steps because Xenko is bringing you our new Script Editor feature - available soon in **Xenko β1.9**. Open the blog post for the full details!

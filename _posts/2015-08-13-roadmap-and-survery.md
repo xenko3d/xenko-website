@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Roadmap and Survey'
+author: 'Silicon Studio'
+disqus_short_name: paradox3d
 image_thumb: /images/blog/survey.png
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Real-time local reflections preview'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/2017-02-09-real-time-local-reflections/night-reflections.png
 popular: true
+disqus_short_name: paradox3d
 ---
 
 We're excited to be working on Xenko's real-time local reflections feature, coming in Xenko's next release. Real-time local reflections are a great way to visually ground objects in a scene. They give your games richer scenes and increased realism in rendering.

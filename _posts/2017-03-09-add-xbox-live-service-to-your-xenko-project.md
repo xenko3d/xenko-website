@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Add Xbox Live service to your Xenko project!'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/2017-03-09-xbox-live/xbox-live-resized.png
 popular: true
+disqus_short_name: paradox3d
 ---
 ![Achievement Unlocked](../../images/blog/2017-03-09-xbox-live/achievement-unlocked-with-xenko.png)
 

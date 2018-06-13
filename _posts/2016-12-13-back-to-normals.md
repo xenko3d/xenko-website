@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Back to normals'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/normals/Normal_map_example_thumb.png
 popular: true
+disqus_short_name: paradox3d
 ---
 
 Xenko 1.9.2β fixes an important issue with our normal maps. We have recently reviewed our normal map settings and shaders. Unfortunately, a lot of them cover cases that were previously missing or unclear, so automated conversion of the assets is not possible.

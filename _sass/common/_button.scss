@@ -68,6 +68,20 @@
 			white-space: nowrap;
 		}
 
+		span.xi_download
+		{
+			display: inline-block;
+			width: 1.5em;
+			height: 1.5em;
+			overflow: hidden;
+			background: url(../images/svg/download_black.svg) no-repeat 0 0;
+			background-size: 3.0em;
+			vertical-align: middle;
+			text-align: left;
+			text-indent: 100%;
+			white-space: nowrap;
+		}
+
 		&:hover
 		{
 			p 

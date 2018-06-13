@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Xenko 1.3β is out!'
+author: 'Silicon Studio'
+disqus_short_name: paradox3d
 image_thumb: /images/blog/release-1.3/thumb.png
 ---
 We are proud to announce the release of a new version of Xenko, bringing lots of usage enhancements and many bug fixes - over 1000 commits since previous version! We have been working hard to bring to you most of the feature listed on our [roadmap](https://trello.com/b/FwbjOjjB/paradox-roadmap). 

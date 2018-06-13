@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Copy-Paste Improvements Coming Soon!'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 popular: true
 image_thumb: /images/blog/copy_paste/thumb.jpg
+disqus_short_name: paradox3d
 ---
 
 Xenko team is working on some new features for 1.9!

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Release and Pricing Information'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/release-1.4/XenkoLogoTM_thumb.png
 popular: true
+disqus_short_name: paradox3d
 ---
 
 We are pleased to announce that Xenko will exit its beta stage on April, 2017 with the first commercial version of the engine! 

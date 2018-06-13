@@ -197,8 +197,6 @@ div.x_body
     position: relative;
     margin: 50px auto 80px;
     
-    background: $c_border;
-
     @media ( max-width: $w_under_iphone )
     {
         margin-bottom: 60px;
@@ -1221,7 +1219,7 @@ article.post .entry-content{
 .legal_link{
     font-size: 23px;
 }
-div.x_body div.pdx-licensing{
+div.x_body div.xk-licensing{
     p{
         margin-bottom: 0.8em;
         &+ul{

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Happy holidays 2016!
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/2016-12-22-happy-holidays-2016/presents.png
+disqus_short_name: paradox3d
 ---
 Season's greetings from the Xenko team!
 

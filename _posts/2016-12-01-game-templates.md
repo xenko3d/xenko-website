@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Newly Added Game Templates'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/2016-12-01-game-templates/template_thumb.png
+disqus_short_name: paradox3d
 ---
 
 

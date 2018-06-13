@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Xenko exhibits and Official Release news!'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/2017-02-22-gdc-xenko-exhibit-info/GDC17_Logo_Year_Bug_bw.png
 popular: true
+disqus_short_name: paradox3d
 ---
 
 Silicon Studio is planning to announce the first official commercial release of Xenko at GDC! More details will be announced here in our blog in the coming weeks as well, so stay tuned! 

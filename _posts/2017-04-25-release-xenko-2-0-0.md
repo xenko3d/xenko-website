@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Xenko 2.0 released now!'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/release-2.0/thumbnail.jpg
 popular: true
+disqus_short_name: paradox3d
 ---
 
 After nearly two years of open beta, we’re proud to announce that **Xenko is now available as a commercial product**. Xenko 2.0 adds features such as full VR support, a pipeline rendering editor, light probes, and scene streaming management, along with greatly improved stability (more details below).

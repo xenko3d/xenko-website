@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'First Fix Update of 2016!'
+author: 'Silicon Studio'
+disqus_short_name: paradox3d
 ---
 
 Hi everybody!

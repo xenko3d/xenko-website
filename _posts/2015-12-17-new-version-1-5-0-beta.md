@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Xenko 1.5β is out!'
+author: 'Silicon Studio'
+disqus_short_name: paradox3d
 image_thumb: /images/blog/release-1.5/thumb.png
 ---
 

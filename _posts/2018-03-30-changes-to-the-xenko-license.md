@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Changes to the Xenko license'
-author: 'Xenko Team'
-image_thumb: /images/blog/2018-03-30-changes-to-the-xenko-license/thumb.png
+author: 'Silicon Studio'
 popular: true
+disqus_short_name: paradox3d
 ---
 
 Long time no see!

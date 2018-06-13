@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Navigation Mesh Preview'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 popular: true
 image_thumb: /images/blog/navmeshes/thumb.jpg
+disqus_short_name: paradox3d
 ---
 
 Another reason we’re psyched for **Xenko 1.9β!** Open post for more details about Xenko’s navigation mesh.

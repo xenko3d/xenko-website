@@ -7,16 +7,12 @@ url: "http://xenko.com" # the base hostname & protocol for your site
 
 exclude: ['Gemfile*', '_deploy', '.*', '_jekyll']
 
-# Github repository
-# github_user: SiliconStudio
-# github_repo_url: https://github.com/SiliconStudio/SiliconStudio.github.io/
-
 # Twitter
 twitter_user: xenko3d
 twitter_tweet_button: true
 
 # Disqus Comments
-disqus_short_name: paradox3d
+disqus_short_name: xenko
 disqus_show_comment_count: true
 
 # Google Analytics

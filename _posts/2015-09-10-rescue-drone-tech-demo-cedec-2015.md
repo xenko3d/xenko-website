@@ -1,6 +1,8 @@
 ---
 layout: post
 title: '"Rescue Drone" Tech Demo'
+author: 'Silicon Studio'
+disqus_short_name: paradox3d
 image_thumb: /images/blog/rescue-drone/thumb.jpg
 ---
 

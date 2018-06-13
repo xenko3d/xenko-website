@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Feature spotlight: particle effects'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/2017-01-18-particles/thumb.png
+disqus_short_name: paradox3d
 ---
 
 Happy 2017! 

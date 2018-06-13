@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Run, Don''t Walk'
-author: 'Xenko Marketing'
+author: 'Silicon Studio'
 popular: true
 image_thumb: /images/blog/run-dont-walk/thumb.jpg
 image: /images/blog/run-dont-walk/banner.jpg
+disqus_short_name: paradox3d
 ---
 
 Xenko team is taking a look into the recent trend of VR.

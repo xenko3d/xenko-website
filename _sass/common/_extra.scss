@@ -198,6 +198,24 @@ Banner
 
 .download-area {
     margin-top: 35px;
+
+	text-align: center;
+
+	.xk-frontpage-main-button
+	{
+		display: inline-block !important;
+		max-width: 300px;
+		margin: 0 10px !important;
+		vertical-align: center;
+	}
+
+	.xk-download:hover
+	{
+		span.xi_download
+		{
+			background-position: 100% 100%;
+		}
+	}
 }
 
 .rt-title-tag {
@@ -560,7 +578,7 @@ Template for Next between articles
 /*
 Template for Licensing
 */
-.pdx-licensing
+.xk-licensing
 {
 	font-family: Calibri, Arial;
 	background-color: #EEE;

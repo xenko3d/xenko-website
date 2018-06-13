@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Feature spotlight: archetypes, prefabs, and nested prefabs'
-author: 'Xenko Team'
+author: 'Silicon Studio'
 image_thumb: /images/blog/2016-12-07-prefabs/prefab_thumb.png
 popular: true
+disqus_short_name: paradox3d
 ---
 
 

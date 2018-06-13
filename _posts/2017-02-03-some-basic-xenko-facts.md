@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Some basic Xenko facts'
-author: 'Xenko Marketing'
+author: 'Silicon Studio'
 image_thumb: /images/blog/release-1.4/XenkoLogoTM_thumb.png
 popular: true
+disqus_short_name: paradox3d
 ---
 
 When looking at new game engines or software, it’s easy to get lost in feature details. So we thought we’d step back and take a moment to discuss some Xenko facts. If you are curious about the basics of Xenko, our **in beta, open source, full C# game engine**, this post will explain some of Xenko’s main characteristics along with system requirements.
